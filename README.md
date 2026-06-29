@@ -66,55 +66,6 @@ src/
 ├── App.jsx                 # Router routes and wrappers
 └── main.jsx                # DOM mounting entry
 ```
-
----
-
-## ⚙ Installation
-
-Follow these steps to run the Web3 Explorer dashboard locally:
-
-1. **Clone the repository**:
-   ```bash
-   git clone <repository-url>
-   cd blockchain
-   ```
-
-2. **Install dependencies**:
-   ```bash
-   npm install
-   ```
-
-3. **Run the development server**:
-   ```bash
-   npm run dev
-   ```
-   Open `http://localhost:5173` in your browser.
-
-4. **Build for production**:
-   ```bash
-   npm run build
-   ```
-
----
-
-## 📸 Screenshots
-
-### 1. Home Page
-*Placeholder: `docs/screenshots/home.png`*
-*Description: Overview of Layer 2 solutions, scaling mechanisms, and timeline animations.*
-
-### 2. Concepts Page
-*Placeholder: `docs/screenshots/concepts.png`*
-*Description: Comparative panels for Web2 vs Web3, BTC vs ETH, and the interactive quiz module.*
-
-### 3. Live Prices Page
-*Placeholder: `docs/screenshots/live_prices.png`*
-*Description: Real-time crypto market tracker showing active gains, statistics, and change flashes.*
-
-### 4. Block Simulator Page
-*Placeholder: `docs/screenshots/block_simulator.png`*
-*Description: Cryptographic sandbox depicting PoW mining hashes, nonces, and chain link validation.*
-
 ---
 
 ## 💎 Advanced Bonus Features Implemented

@@ -137,47 +137,4 @@ We have integrated several professional-grade advanced features across the appli
 10. **404 Route Catch-all**: Wildcard route mapping to a premium 404 Not Found page with custom SVG graphics and a redirection homepage button.
 11. **Skeleton Loaders**: Integrated animated pulse skeleton states to avoid screen jerks while live data feeds populate.
 
----
 
-## 🔗 Project Links
-
-*   **Live Demo (Vercel)**: [https://web3-explorer-assignment.vercel.app](https://web3-explorer-assignment.vercel.app)
-*   **GitHub Repository**: [https://github.com/username/web3-explorer-assignment](https://github.com/username/web3-explorer-assignment)
-
----
-
-## ⚡ Vercel Deployment Instructions
-
-Deploying the Web3 Explorer to Vercel is streamlined and takes under 3 minutes:
-
-### Option 1: Vercel CLI (Local Terminal)
-1. Install Vercel globally:
-   ```bash
-   npm install -g vercel
-   ```
-2. Authenticate and log in:
-   ```bash
-   vercel login
-   ```
-3. Deploy the project:
-   ```bash
-   vercel
-   ```
-4. Confirm build settings (defaults will work, build output is the `./dist` folder). For production deploy:
-   ```bash
-   vercel --prod
-   ```
-
-### Option 2: Vercel Dashboard (GitHub Integration)
-1. Push your local repository to GitHub.
-2. Log in to [Vercel](https://vercel.com).
-3. Click **Add New** > **Project** and import your repository.
-4. Vercel automatically detects Vite. Leave the default configurations:
-   - **Framework Preset**: `Vite`
-   - **Build Command**: `npm run build`
-   - **Output Directory**: `dist`
-5. Click **Deploy**. Vercel will build and serve your SPA. Thanks to `vercel.json` in the root, page refreshes on subroutes will work seamlessly.
-
-=======
-# Arbitrum-L2-Explorer-
->>>>>>> d85e0b324d050f1c889a6ed88c3ece765bae4bcd

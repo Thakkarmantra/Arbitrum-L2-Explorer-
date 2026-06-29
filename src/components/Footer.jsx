@@ -65,7 +65,7 @@ export default function Footer() {
               <TwitterIcon className="w-5 h-5" />
             </a>
             <a
-              href="https://arbitrum.io"
+              href="https://github.com/Thakkarmantra"
               target="_blank"
               rel="noopener noreferrer"
               className="p-2 rounded-lg text-slate-400 hover:text-brand-cyan hover:bg-white/5 transition-all duration-200"
@@ -78,7 +78,7 @@ export default function Footer() {
           {/* Batch & Copyright */}
           <div className="text-center md:text-right">
             <span className="inline-block text-xs font-semibold px-2.5 py-1 rounded-full bg-brand-purple/10 border border-brand-purple/20 text-brand-purple mb-2">
-              Arbitrum Builder Labs - Batch 1
+              LDRP_ITR
             </span>
             <p className="text-xs text-slate-500">
               &copy; {new Date().getFullYear()} Web3 Explorer. All rights reserved.

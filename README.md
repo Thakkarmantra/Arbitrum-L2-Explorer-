@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Web3 Explorer
 
 Web3 Explorer is a modern, responsive, and interactive educational frontend dashboard built as an assignment submission for Arbitrum Builder Labs. It provides a visual, hands-on learning environment to understand Ethereum Layer 2 scalability, blockchain cryptography, live token markets, and consensus mechanisms.
@@ -177,3 +178,6 @@ Deploying the Web3 Explorer to Vercel is streamlined and takes under 3 minutes:
    - **Output Directory**: `dist`
 5. Click **Deploy**. Vercel will build and serve your SPA. Thanks to `vercel.json` in the root, page refreshes on subroutes will work seamlessly.
 
+=======
+# Arbitrum-L2-Explorer-
+>>>>>>> d85e0b324d050f1c889a6ed88c3ece765bae4bcd

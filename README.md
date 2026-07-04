@@ -5,7 +5,7 @@ Web3 Explorer is a modern, responsive, and interactive educational frontend dash
 
 ---
 
-## 🚀 Features
+##  Features
 
 The application consists of four main sections:
 
@@ -33,7 +33,7 @@ The application consists of four main sections:
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - **Core & Routing**: React, Vite (ESM), React Router DOM (v7)
 - **Styling**: Tailwind CSS (v4) with native `@tailwindcss/vite` configuration
@@ -44,7 +44,7 @@ The application consists of four main sections:
 
 ---
 
-## 📦 Project Structure
+##  Project Structure
 
 ```
 src/
@@ -68,7 +68,7 @@ src/
 ```
 ---
 
-## 💎 Advanced Bonus Features Implemented
+##  Advanced Bonus Features Implemented
 
 We have integrated several professional-grade advanced features across the application:
 

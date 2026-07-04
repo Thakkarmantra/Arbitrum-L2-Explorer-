@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Web3 Explorer
 
 Web3 Explorer is a modern, responsive, and interactive educational frontend dashboard built as an assignment submission for Arbitrum Builder Labs. It provides a visual, hands-on learning environment to understand Ethereum Layer 2 scalability, blockchain cryptography, live token markets, and consensus mechanisms.

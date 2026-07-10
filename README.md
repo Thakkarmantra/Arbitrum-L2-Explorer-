@@ -20,7 +20,7 @@ The application consists of four main sections:
    - Interactive, state-controlled multiple-choice quiz validating user blockchain knowledge with instant explanation feedbacks.
 
 3. **Live Prices Tracker (`/live-prices`)**:
-   - Real-time token market price feeds (BTC, ETH, SOL, ARB, MATIC) powered by the CoinGecko public API.
+   - Real-time token market price feeds (BTC, ETH, SOL, ARB, POL) powered by the CoinGecko public API.
    - Interactive tick indicator that flashes colors (green/red border glows) on upward or downward price shifts.
    - Detailed Market Summary stats calculating Top Gainer, Lowest Performer, Indexed Assets count, and data feed metadata.
    - Styled loader state and rate-limiting error retry panels.

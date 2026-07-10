@@ -65,13 +65,13 @@ const TOKEN_METADATA = {
     borderLight: 'rgba(40, 160, 240, 0.25)',
     logoText: 'A'
   },
-  'matic-network': {
+  'polygon-ecosystem-token': {
     name: 'Polygon',
-    symbol: 'MATIC',
+    symbol: 'POL',
     color: '#8247E5',
     bgLight: 'rgba(130, 71, 229, 0.1)',
     borderLight: 'rgba(130, 71, 229, 0.25)',
-    logoText: 'M'
+    logoText: 'P'
   }
 };
 
@@ -80,7 +80,7 @@ const COIN_IDS = Object.keys(TOKEN_METADATA).join(',');
 export default function LivePrices() {
   useSEO({
     title: 'Live Cryptocurrency Prices',
-    description: 'Track real-time coin market prices for BTC, ETH, SOL, ARB, and MATIC, view dynamic price history trend lines, and set auto-refresh intervals.'
+    description: 'Track real-time coin market prices for BTC, ETH, SOL, ARB, and POL, view dynamic price history trend lines, and set auto-refresh intervals.'
   });
 
   const [prices, setPrices] = useState(null);
